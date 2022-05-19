@@ -1,7 +1,7 @@
 body 
 {
-background-image: url(asset/image/ecolefresque.jpg);
-background-repeat: no-repeat;
+ background-image: url(asset/image/ecolefresque.jpg); 
+ background-repeat: no-repeat; 
 background-size: 100% 100%;
 background-attachment:fixed;
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -10,16 +10,17 @@ font-size: small;
 }
 header h1 
 {
-    color: #FFFFFF;
+    color:darkslategray;
     text-shadow: 4px 3px 0px #7A7A7A; 
     text-align: center;
-    font-size:40px;
+    font-size:50px ; 
 
 
 }
 header img
+
 {
 
-border-radius: 300%;
-margin-left: 95%;
+border: radius 20px;
+margin-left: 50%;
 }
