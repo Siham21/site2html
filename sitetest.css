@@ -1,0 +1,18 @@
+background-image: url(asset/image/ecolefresque.jpg);
+backdrop-filter: contrast(180%);
+background-repeat:no-repeat;
+background-attachment:scroll;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: small;
+
+
+
+
+background-image: url(asset/image/ecolefresque.jpg);
+background-repeat: no-repeat;
+background-size: 100% 100%;
+
+
+background-attachment:fixed;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: small;
